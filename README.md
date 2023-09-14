@@ -18,7 +18,6 @@ AI修仙指南
 ---
 |Q群()|
 |--|--|
-|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|
 
 怎么用?
 ---
